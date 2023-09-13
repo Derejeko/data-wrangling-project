@@ -1,2 +1,2 @@
 # data-wrangling-project
-data wrangling or cleaning on data analysis with python
+data wrangling or cleaning on data analysis with python course
